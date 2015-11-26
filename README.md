@@ -15,5 +15,5 @@ It is intended that these images be used with the stackinabox project (DevStack 
       - cachier
    - nfs shared filesystem
    - add box
-- once you have your system setup run the following command from the vagrant directory:
-  vagrant up --provider=virtualbox
+- once you have your system setup run the following command from the vagrant directory:  
+````vagrant up --provider=virtualbox````
